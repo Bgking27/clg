@@ -1,0 +1,93 @@
+h4{
+    background-color: rgb(235, 248, 113);
+    font-style:italic;
+    font-variant: small-caps;
+    font-size: large;
+}
+header{
+    margin-top: 0px;
+    margin-bottom: -10px;
+    background-color: #990000cc;
+    border-radius: 5px;
+    color: white;
+}    
+image{
+    width: 100%;
+    border-radius: 3%;
+    border-color:red;
+}
+body{
+    margin: 0px;
+    margin-top: -15px;
+    background-color: rgb(214, 220, 226);
+    
+}
+card-container{
+    margin: 0%;
+    box-shadow: #520202;
+
+}
+card-container . container{
+    background-color:black;
+}
+card-bg-container{
+    border-width:1px;
+    border-color: black;
+    border-radius: 20px;
+}
+
+.bg{
+    justify-content: center;
+    justify-content: space-between;
+    justify-content:;
+    display:flex;
+    margin-top:5px;
+}
+#home:hover{
+    cursor: pointer;
+    color: red;
+    border: 1px solid green;
+    padding: 6px;
+    box-shadow: 1px 2px 3px 4px  rgb(255, 0, 0);
+}
+
+#courses:hover{
+    cursor: pointer;
+    color: red;
+    border: 1px solid green;
+    padding: 6px;
+    box-shadow: 1px 2px 3px 4px  rgb(255, 0, 0);
+}
+
+#result:hover{
+    cursor: pointer;
+    color: red;
+    border: 1px solid green;
+    padding: 6px;
+    box-shadow: 1px 2px 3px 4px  rgb(255, 0, 0);
+}
+
+#contactus:hover{
+    cursor: pointer;
+    color: red;
+    border: 1px solid rgb(253, 229, 7);
+    padding: 6px;
+    box-shadow: 1px 2px 3px 4px  rgb(255, 0, 0);
+}
+.shadow:hover{
+    cursor: pointer;
+    color: red;
+    border: 1px solid green;
+    padding: 6px;
+    box-shadow: 1px 2px 3px 4px  rgb(255, 0, 0);
+}
+footer{
+    background-color: #520202;
+    color: aliceblue;
+    text-align: center;
+    size: 20px; margin-top: 0px;
+    margin-bottom: -10px;
+    background-color: #990000cc;
+    border-radius: 5px;
+    color: white;
+}
